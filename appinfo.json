@@ -1,0 +1,14 @@
+{
+  "id": "com.eveiptv.com",
+  "version": "0.0.1",
+  "vendor": "Roman Solomud",
+  "type": "web",
+  "main": "build/index.html",
+  "title": "Eve IPTV",
+  "icon": "build/icon.png",
+  "requiredPermissions": [
+    "time",
+    "settings.read",
+    "activities.manage"
+  ]
+}
